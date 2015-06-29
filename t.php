@@ -25,7 +25,7 @@ for($x=1;$x<=$fin;$x++){
 		echo '<tr>';
 	}
 }
-fe
+
 ?>
 </table>
 </body>
